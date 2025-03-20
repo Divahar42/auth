@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247675729135",
+    "project_id": "gooo-2082a",
+    "storage_bucket": "gooo-2082a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247675729135:android:57bba4403e729a2fe7571a",
+        "android_client_info": {
+          "package_name": "com.example.gooo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247675729135-tfh4mgnkirrcb1kh0c8hup05ckglbom5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2FwedfC5c0dZxgFS22MpQiJs4sRLfkVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247675729135-tfh4mgnkirrcb1kh0c8hup05ckglbom5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
